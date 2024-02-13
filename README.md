@@ -1,2 +1,5 @@
 # youtube-appendix
-Resources for some of our education content
+
+This repository contains resouces for our content found on Youtube. 
+
+- **Image Classification *with* scikit-learn** [YouTube](https://youtu.be/lzXKsY3bANw) [code]()
