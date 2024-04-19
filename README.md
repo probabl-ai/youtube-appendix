@@ -15,5 +15,5 @@ This repository contains resources for our content found on Youtube.
 
 ## Livestream
 
-- **Exploring Ibis** [YouTube](https://www.youtube.com/watch?v=xoipV_Fh7Nk) [code](https://github.com/probabl-ai/youtube-appendix/blob/main/07-scaling-data/standard-scaler.ipynb)
-- **KNN on LanceDB** [YouTube](https://www.youtube.com/watch?v=HIRJFYncE2I) [code](https://github.com/probabl-ai/youtube-appendix/blob/main/07-scaling-data/standard-scaler.ipynb)
+- **Exploring Ibis** [YouTube](https://www.youtube.com/watch?v=xoipV_Fh7Nk) [code](https://github.com/probabl-ai/youtube-appendix/blob/main/00-livestream/lance-lance.ipynb)
+- **KNN on LanceDB** [YouTube](https://www.youtube.com/watch?v=HIRJFYncE2I) [code](https://github.com/probabl-ai/youtube-appendix/blob/main/00-livestream/exploring-ibis.ipynb)
