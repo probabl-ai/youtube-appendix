@@ -1,6 +1,8 @@
 # youtube-appendix
 
-This repository contains resouces for our content found on Youtube. 
+This repository contains resources for our content found on Youtube. 
+
+## Whiteboard Videos
 
 - **Image Classification *with* scikit-learn** [YouTube](https://youtu.be/lzXKsY3bANw) [code](https://github.com/probabl-ai/youtube-appendix/blob/main/01-sklearn-image/notebook.ipynb)
 - **The Quantile Trick** [YouTube](https://www.youtube.com/watch?v=yLz1NELcIM0) [code](https://github.com/probabl-ai/youtube-appendix/blob/main/02-quantile/notebook.ipynb)
@@ -11,3 +13,7 @@ This repository contains resouces for our content found on Youtube.
 - **Building Elaborate Pipelines** [YouTube](https://youtu.be/STPv0jSAQEk) [code](https://github.com/probabl-ai/youtube-appendix/blob/main/06-elaborate-pipelines/notebook.ipynb)
 - **Scaling data** [YouTube](https://youtu.be/atehB1lM1Uc) [code](https://github.com/probabl-ai/youtube-appendix/blob/main/07-scaling-data/standard-scaler.ipynb)
 
+## Livestream
+
+- **Exploring Ibis** [YouTube](https://www.youtube.com/watch?v=xoipV_Fh7Nk) [code](https://github.com/probabl-ai/youtube-appendix/blob/main/07-scaling-data/standard-scaler.ipynb)
+- **KNN on LanceDB** [YouTube](https://www.youtube.com/watch?v=HIRJFYncE2I) [code](https://github.com/probabl-ai/youtube-appendix/blob/main/07-scaling-data/standard-scaler.ipynb)
