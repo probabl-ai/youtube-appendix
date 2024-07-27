@@ -18,3 +18,4 @@ This repository contains resources for our content found on Youtube.
 
 - **Exploring Ibis** [YouTube](https://www.youtube.com/watch?v=xoipV_Fh7Nk) [code](https://github.com/probabl-ai/youtube-appendix/blob/main/00-livestream/lance-lance.ipynb)
 - **KNN on LanceDB** [YouTube](https://www.youtube.com/watch?v=HIRJFYncE2I) [code](https://github.com/probabl-ai/youtube-appendix/blob/main/00-livestream/exploring-ibis.ipynb)
+- **PCA vs. UMAP [YouTube](https://youtube.com/live/P07xnm2TOhY) [code](https://github.com/probabl-ai/youtube-appendix/blob/main/00-livestream/umap-vs-pca.ipynb)
