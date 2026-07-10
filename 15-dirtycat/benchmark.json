@@ -1,0 +1,7 @@
+{
+  "type": "jupyterlite-ai-prompt",
+  "useGlobalPrompt": true,
+  "prompts": [
+    "This is an instructional notebook. The full notebook is at https://github.com/probabl-ai/youtube-appendix/blob/main/15-dirtycat/benchmark.ipynb. Fetch it to understand the content, then help the student run cells, interpret outputs, and understand the concepts covered."
+  ]
+}
